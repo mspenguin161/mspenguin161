@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently relearning **C++**
 
-- 💬 Ask me about **anything js & py related**
+- 💬 Ask me about anything related to **JavaScript and Python**.
 
 - 📫 How to reach me **owner@germandevs.de**
 
